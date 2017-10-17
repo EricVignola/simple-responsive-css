@@ -1,10 +1,12 @@
 # Simple Responsive CSS
 
+
 ### What is Simple Responsive CSS for?
 
 
 This responsive grid is for developers new to CSS and responsive grids. This grid
 will strive to stay simple and accessible with lots of comments for learning.
+
 
 ### What is normalize.css?
 
@@ -12,6 +14,7 @@ will strive to stay simple and accessible with lots of comments for learning.
 Different browsers render HTML elements slightly differently from each other.
 normalize.css "resets" those slight differences so that you can build your
 website knowing that it won't render in unexpected ways due to a browser.
+
 
 ###What is responsive.css?
 

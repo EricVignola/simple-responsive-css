@@ -16,7 +16,7 @@ normalize.css "resets" those slight differences so that you can build your
 website knowing that it won't render in unexpected ways due to a browser.
 
 
-###What is responsive.css?
+### What is responsive.css?
 
 
 responsive.css is where the magic is. Many modern websites today use a grid based
